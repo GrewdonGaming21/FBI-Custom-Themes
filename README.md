@@ -13,4 +13,4 @@ Top Screen:
 
 Bottom Screen:
 
-![image](https://github.com/GrewdonGaming21/FBI-Giratina-Theme/blob/main/theme/bottom_screen_bg.png?raw=true)
+![image](https://github.com/GrewdonGaming21/FBI-Custom-Themes/blob/Giratina/theme/bottom_screen_bg.png?raw=true)
