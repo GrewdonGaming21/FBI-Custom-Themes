@@ -9,8 +9,8 @@ Demonstration (by SimonFoxcoon of their theme): https://www.youtube.com/watch?v=
 
 Top Screen:
 
-![image](https://github.com/GrewdonGaming21/FBI-Custom-Themes/blob/Team-Magma/theme/bottom_screen_bg.png?raw=true)
+![image](https://github.com/GrewdonGaming21/FBI-Custom-Themes/blob/Team-Magma/theme/top_screen_bg.png?raw=true)
 
 Bottom Screen:
 
-![image](https://github.com/GrewdonGaming21/FBI-Giratina-Theme/blob/main/theme/bottom_screen_bg.png?raw=true)
+![image](https://github.com/GrewdonGaming21/FBI-Custom-Themes/blob/Team-Magma/theme/bottom_screen_bg.png?raw=true)
