@@ -1,7 +1,7 @@
 # FBI-Team-Magma-Theme
-This is a Giratina Theme that I made for the 3DS Homebrew tool, FBI, coincidentaly also because of boredom.
+This is a Team Magma Theme that I made for the 3DS Homebrew tool, FBI, coincidentaly also because of boredom.
 
-This has been tested and approved.
+### This not has been tested and approved yet.
 
 Instructions: Click "Clone or Download" Click "Download ZIP" Extract the .zip Place all the .png files into 3DS:/fbi/theme/. If those directories dont exist, create them. Do not move any other files because FBI won't read them. Enjoy
 
