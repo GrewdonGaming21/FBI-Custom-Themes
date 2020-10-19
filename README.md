@@ -6,8 +6,8 @@ Demontration (by [SimonFoxcoon](https://github.com/SimonFoxcoon) of their [theme
 
 I know for a fact that the marked themes work
 
-- [ ] [Team Magma Theme](https://github.com/GrewdonGaming21/FBI-Custom-Themes/tree/Team-Magma)
+- [ ] Team Magma Theme
 
-- [ ] [Team Aqua Theme](https://github.com/GrewdonGaming21/FBI-Custom-Themes/tree/Team-Aqua)
+- [ ] Team Aqua Theme
 
-- [x] [Giratina Theme](https://github.com/GrewdonGaming21/FBI-Custom-Themes/tree/Giratina)
+- [x] Giratina Theme
