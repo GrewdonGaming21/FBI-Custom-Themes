@@ -4,8 +4,10 @@ Demontration (by [SimonFoxcoon](https://github.com/SimonFoxcoon) of their [theme
 
 # List of my Themes:
 
-[Team Magma Theme](https://github.com/GrewdonGaming21/FBI-Custom-Themes/tree/Team-Magma)
+I know for a fact that the marked themes work
 
-[Team Aqua Theme](https://github.com/GrewdonGaming21/FBI-Custom-Themes/tree/Team-Aqua)
+- [ ] [Team Magma Theme](https://github.com/GrewdonGaming21/FBI-Custom-Themes/tree/Team-Magma)
 
-[Giratina Theme](https://github.com/GrewdonGaming21/FBI-Custom-Themes/tree/Giratina)
+- [ ] [Team Aqua Theme](https://github.com/GrewdonGaming21/FBI-Custom-Themes/tree/Team-Aqua)
+
+- [x] [Giratina Theme](https://github.com/GrewdonGaming21/FBI-Custom-Themes/tree/Giratina)
