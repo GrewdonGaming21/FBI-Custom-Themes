@@ -1,6 +1,6 @@
 # FBI-Custom-Themes
 
-Demonstration (by [SimonFoxcoon](https://g
+
 
 # List of my Themes:
 
